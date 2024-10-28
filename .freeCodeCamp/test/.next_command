@@ -194,3 +194,6 @@ man echo
 ./questionnaire.sh
 ./questionnaire.sh
 ./questionnaire.sh
+WEBSITE!
+website!
+echo Hello $NAME from $LOCATION
