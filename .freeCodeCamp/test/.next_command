@@ -253,3 +253,5 @@ help while
 touch bingo.sh
 chmod +x bingo.sh
 ./bingo.sh
+printev
+printenv
