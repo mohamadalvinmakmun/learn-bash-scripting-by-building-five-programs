@@ -202,3 +202,4 @@ echo Hello $NAME from $LOCATION
 touch countdown.sh
 chmod +x countdown.sh
 which bash
+./countdown.sh
