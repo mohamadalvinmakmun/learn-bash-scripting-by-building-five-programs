@@ -171,3 +171,4 @@ echo hello questionnaire
 questionnaire.sh
 file
 sh questionnaire.sh
+bash questionnaire.sh
