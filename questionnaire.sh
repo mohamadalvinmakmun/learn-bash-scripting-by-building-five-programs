@@ -12,3 +12,4 @@ echo ~~ Questionnaire ~~
 echo -e "\n~~ Questionnaire ~~\n"
 QUESTION3="What's your favorite coding website?"
 echo $QUESTION3
+read WEBSITE
