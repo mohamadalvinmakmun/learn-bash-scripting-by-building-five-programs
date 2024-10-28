@@ -179,3 +179,4 @@ cd ~/project
 ls --color=auto -l
 chmod +x questionnaire.sh
 ls --color=auto -l
+./questionnaire.sh
