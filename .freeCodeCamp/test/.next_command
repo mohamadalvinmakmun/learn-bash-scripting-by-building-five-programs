@@ -242,3 +242,4 @@ help
 help
 ls/
 ls --color=auto /
+ls --color=auto /bin
