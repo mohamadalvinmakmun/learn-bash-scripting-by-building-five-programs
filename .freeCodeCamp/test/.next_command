@@ -240,3 +240,5 @@ help [[
 help
 ./countdown.sh 10
 help
+ls/
+ls --color=auto /
