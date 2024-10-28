@@ -11,3 +11,4 @@ echo Hello $NAME from $LOCATION.
 echo ~~ Questionnaire ~~
 echo -e "\n~~ Questionnaire ~~\n"
 QUESTION3="What's your favorite coding website?"
+echo $QUESTION3
